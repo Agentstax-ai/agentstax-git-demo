@@ -7,3 +7,6 @@ here's my first git video
 hwe are learning git and github
 
 i want to add a whishlist to my code 
+
+
+i wanted to understand the pull request feature 
